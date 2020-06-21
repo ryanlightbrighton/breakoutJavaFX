@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=GameObj
+comment0.text=\r\n\ \ \ \ <h2>This\ sets\ up\ the\ GameObj\ class</h2>\r\n\ \ \ \ \r\n\ \ \ \ @author\ Roger\ Evans\ (modified\ by\ Ryan\ Light)\r\n
+comment1.params=
+comment1.target=GameObj()
+comment1.text=\r\n\ \ \ \ \ \ \ \ <h2>Constructor</h2>\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ <p>Default\ constructor</p>\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n
+comment2.params=x\ y\ w\ h\ c
+comment2.target=GameObj(int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment2.text=\r\n\ \ \ \ \ \ \ \ <h2>Constructor</h2>\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ <p>Overloaded\ constructor</p>\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n\ \ \ \ \ \ \ \ @param\ x\ Position\ -\ top\ left\ corner\ X\r\n\ \ \ \ \ \ \ \ @param\ y\ Position\ -\ top\ left\ corner\ Y\r\n\ \ \ \ \ \ \ \ @param\ w\ Width\ of\ object\r\n\ \ \ \ \ \ \ \ @param\ h\ Height\ of\ object\r\n\ \ \ \ \ \ \ \ @param\ c\ Colour\ of\ object\r\n
+comment3.params=units
+comment3.target=void\ moveX(int)
+comment3.text=\r\n\ \ \ \ \ \ \ \ <h2>Move\ in\ X\ axis</h2>\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n\ \ \ \ \ \ \ \ @param\ units\ How\ far\ to\ move\ (px)\r\n
+comment4.params=units
+comment4.target=void\ moveY(int)
+comment4.text=\r\n\ \ \ \ \ \ \ \ <h2>Move\ in\ Y\ axis</h2>\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n\ \ \ \ \ \ \ \ @param\ units\ How\ far\ to\ move\ (px)\r\n
+comment5.params=
+comment5.target=void\ changeDirectionX()
+comment5.text=\r\n\ \ \ \ \ \ \ \ <h2>Change\ direction\ of\ movement\ in\ X\ axis</h2>\r\n\ \ \ \ \ \ \ \ <p>(-1,\ 0\ or\ +1)</p>\r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n
+comment6.params=
+comment6.target=void\ changeDirectionY()
+comment6.text=\r\n\ \ \ \ \ \ \ \ <h2>Change\ direction\ of\ movement\ in\ Y\ axis</h2>\r\n\ \ \ \ \ \ \ \ <p>(-1,\ 0\ or\ +1)</p>\r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n
+comment7.params=obj
+comment7.target=boolean\ hitBy(GameObj)
+comment7.text=\r\n\ \ \ \ \ \ \ \ <h2>Detect\ collision\ between\ this\ object\ and\ the\ argument\ object</h2>\r\n\ \ \ \ \ \ \ \ @author\ Roger\ Evans\r\n\ \ \ \ \ \ \ \ @return\ Is\ object\ hit\ or\ not\r\n
+comment8.params=obj
+comment8.target=java.lang.String\ whereHitBrick(GameObj)
+comment8.text=\r\n\ \ \ \ \ \ \ \ <h2>Detect\ if\ collision\ is\ side\ or\ below/above</h2>\r\n\ \ \ \ \ \ \ \ @author\ Ryan\ Light\r\n\ \ \ \ \ \ \ \ @return\ ""\ \=\ no\ collision,\ or\ \ "side"\ or\ "vert"\r\n
+numComments=9

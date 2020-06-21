@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainTest
+comment0.text=\r\n\ The\ test\ class\ MainTest.\r\n\r\n\ @author\ \ Ryan\ Light\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=MainTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ MainTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ StartTest()
+comment4.params=
+comment4.target=void\ tearDown()
+comment4.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=5

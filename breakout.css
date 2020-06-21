@@ -1,0 +1,8 @@
+
+.label {
+    -fx-font: bold 20pt "courier new";
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+    // -fx-alignment: center;
+    // -fx-background-image:url("images/drumpf.jpg"); 
+}

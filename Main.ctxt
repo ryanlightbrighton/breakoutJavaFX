@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ \ \ \ <h2>This\ is\ the\ Main\ class\ of\ the\ Breakout\ project</h2>\r\n\ \ \ \ \r\n\ \ \ \ @author\ Roger\ Evans\ (modified\ by\ Ryan\ Light)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \t<h2>This\ is\ the\ Main\ method</h2>\r\n\ \ \ \ \t\r\n\ \ \ \ \t<p>The\ main\ method\ only\ gets\ used\ when\ launching\ from\ the\ command\ line\r\n\ \ \ \ \tlaunch\ initialises\ the\ system\ and\ then\ calls\ start\r\n\ \ \ \ \tIn\ BlueJ,\ BlueJ\ calls\ start\ itself</p>\r\n\ \ \ \ \t\r\n\ \ \ \ \t@author\ Roger\ Evans\r\n
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ \ \ \ \t<p>The\ {@code\ start}\ method\ does\ the\ following\:</p>\r\n\ \ \ \ \t\r\n\ \ \ \ \t<ul>\r\n\ \ \ \ \t\t<li>Sets\ up\ height\ and\ width\ of\ the\ window</li>\r\n\ \ \ \ \t\t<li>Sets\ up\ debugging\ for\ the\ project</li>\r\n\ \ \ \ \t\t<li>Creates\ the\ Model,\ View\ and\ Controller\ objects</li>\r\n\ \ \ \ \t\t<li>Links\ them\ all\ together</li>\r\n\ \ \ \ \t\t<li>Loads\ the\ intro\ screen</li>\r\n\ \ \ \ \t</ul>\r\n\ \ \ \ \t\r\n\ \ \ \ \t@author\ Roger\ Evans\ (modified\ by\ Ryan\ Light)\r\n
+numComments=3

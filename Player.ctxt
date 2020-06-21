@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ <h2>Holds\ player\ name\ and\ their\ score</h2>\r\n\r\n\ @author\ Ryan\ Light\r\n\ @version\ 23/04/2019\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ \ \ \ \t<h2>Constructor</h2>\r\n\ \ \ \ \t\r\n\ \ \ \ \t<p>Default\ constructor</p>\r\n\ \ \ \ \t\r\n\ \ \ \ \t@author\ Ryan\ Light\r\n
+comment2.params=x\ y
+comment2.target=Player(java.lang.String,\ int)
+comment2.text=\r\n\ \ \ \ \t<h2>Constructor</h2>\r\n\ \ \ \ \t\r\n\ \ \ \ \t<p>Overloaded\ constructor</p>\r\n\ \ \ \ \t\r\n\ \ \ \ \t@author\ Ryan\ Light\r\n\ \ \ \ \t@param\ x\ Player\ name\r\n\ \ \ \ \t@param\ y\ score\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ \ \ \ \t<h2>Gets\ the\ name\ of\ the\ player</h2>\r\n\ \ \ \ \t\r\n\ \ \ \ \t@author\ Ryan\ Light\r\n\ \ \ \ \t@return\ players\ name\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ \ \ \ \t<h2>Gets\ the\ score\ of\ the\ player</h2>\r\n\ \ \ \ \t\r\n\ \ \ \ \t@author\ Ryan\ Light\r\n\ \ \ \ \t@return\ players\ score\r\n
+numComments=5

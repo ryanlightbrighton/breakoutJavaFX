@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BatObj
+comment0.text=\r\n\ Class\ for\ bat\ objects\r\n\r\n\ @author\ (Ryan\ Light)\r\n\ @version\ (27/02/2019)\r\n
+comment1.params=x\ y\ w\ h\ c
+comment1.target=BatObj(int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment1.text=\r\n\ \ \ \ \t<h2>Constructor</h2>\r\n\ \ \ \ \t\t\t\r\n\ \ \ \ \t@author\ Ryan\ Light\r\n\ \ \ \ \t@param\ x\ Position\ -\ top\ left\ corner\ X\r\n\ \ \ \ \t@param\ y\ Position\ -\ top\ left\ corner\ Y\r\n\ \ \ \ \t@param\ w\ Width\ of\ object\r\n\ \ \ \ \t@param\ h\ Height\ of\ object\r\n\ \ \ \ \t@param\ c\ Colour\ of\ object\r\n
+numComments=2
